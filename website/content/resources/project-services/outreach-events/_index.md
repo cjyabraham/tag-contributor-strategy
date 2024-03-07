@@ -6,7 +6,7 @@ description: Services around helping projects with outreach and hosting events
 
 ## Marketing
 
-Marketing services for projects are designed to assist with the awareness of the project, increase project adoption, and increase contributors. CNCF has marketing resources to support the projects in the following areas:
+Marketing services for projects are designed to assist with the awareness of the project, increase project adoption, and increase contributors. CNCF has marketing resources to support the projects in the following areas!!
 
 ### Event Management
 
